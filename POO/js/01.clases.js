@@ -49,10 +49,3 @@ var mascota = new Animales("perro","pitbul");
 console.log("mascota",mascota);
 
 
-
-
-
-
-
-
-;
